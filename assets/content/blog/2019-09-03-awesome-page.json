@@ -2,5 +2,5 @@
   "title": "Awesome Page",
   "date": "2019-09-03T18:01:48.582Z",
   "description": "This is an awesome page",
-  "body": "<form name=\"contact\" method=\"POST\" data-netlify=\"true\">\n  <p>\n    <label>Your Name: <input type=\"text\" name=\"name\" /></label>   \n  </p>\n  <p>\n    <label>Your Email: <input type=\"email\" name=\"email\" /></label>\n  </p>\n  <p>\n    <label>Your Role: <select name=\"role[]\" multiple>\n      <option value=\"leader\">Leader</option>\n      <option value=\"follower\">Follower</option>\n    </select></label>\n  </p>\n  <p>\n    <label>Message: <textarea name=\"message\"></textarea></label>\n  </p>\n  <p>\n    <button type=\"submit\">Send</button>\n  </p>\n</form>"
+  "body": "```\n<form name=\"contact\" method=\"POST\" data-netlify=\"true\">\n  <p>\n    <label>Your Name: <input type=\"text\" name=\"name\" /></label>   \n  </p>\n  <p>\n    <label>Your Email: <input type=\"email\" name=\"email\" /></label>\n  </p>\n  <p>\n    <label>Your Role: <select name=\"role[]\" multiple>\n      <option value=\"leader\">Leader</option>\n      <option value=\"follower\">Follower</option>\n    </select></label>\n  </p>\n  <p>\n    <label>Message: <textarea name=\"message\"></textarea></label>\n  </p>\n  <p>\n    <button type=\"submit\">Send</button>\n  </p>\n</form>\n```"
 }
